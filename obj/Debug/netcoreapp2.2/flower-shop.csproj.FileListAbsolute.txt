@@ -1,0 +1,11 @@
+/Users/mo/workspace/csharp/flower-shop/bin/Debug/netcoreapp2.2/flower-shop.deps.json
+/Users/mo/workspace/csharp/flower-shop/bin/Debug/netcoreapp2.2/flower-shop.runtimeconfig.json
+/Users/mo/workspace/csharp/flower-shop/bin/Debug/netcoreapp2.2/flower-shop.runtimeconfig.dev.json
+/Users/mo/workspace/csharp/flower-shop/bin/Debug/netcoreapp2.2/flower-shop.dll
+/Users/mo/workspace/csharp/flower-shop/bin/Debug/netcoreapp2.2/flower-shop.pdb
+/Users/mo/workspace/csharp/flower-shop/obj/Debug/netcoreapp2.2/flower-shop.csprojAssemblyReference.cache
+/Users/mo/workspace/csharp/flower-shop/obj/Debug/netcoreapp2.2/flower-shop.csproj.CoreCompileInputs.cache
+/Users/mo/workspace/csharp/flower-shop/obj/Debug/netcoreapp2.2/flower-shop.AssemblyInfoInputs.cache
+/Users/mo/workspace/csharp/flower-shop/obj/Debug/netcoreapp2.2/flower-shop.AssemblyInfo.cs
+/Users/mo/workspace/csharp/flower-shop/obj/Debug/netcoreapp2.2/flower-shop.dll
+/Users/mo/workspace/csharp/flower-shop/obj/Debug/netcoreapp2.2/flower-shop.pdb
